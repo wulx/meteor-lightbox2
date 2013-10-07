@@ -1,0 +1,9 @@
+{
+  "name": "lightbox2",
+  "description": "jQuery Lightbox2 repackaged for Meteor",
+  "homepage": "https://github.com/wulx/meteor-lightbox2",
+  "author": "Gurdy Woo <gurdy.woo@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/wulx/meteor-lightbox2.git",
+  "packages": {}
+}
